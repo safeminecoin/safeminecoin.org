@@ -4,7 +4,7 @@
 ### SMCN 2021 Q1:
 - SafeMineCoin (SMCN) launch
 - Alpha testing/released
-- SMCN on Block 100 released on several pools
+- SMCN on Block 1000 released on several pools
 - Distribution premine and driven giveaway
 
 ### SMCN 2021 Q2:
